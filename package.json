@@ -6,6 +6,9 @@
   "scripts": {
     "test": "exit 0"
   },
-  "author": "",
+  "publishConfig": {
+    "@Resoguy:registry": "https://npm.pkg.github.com"
+  },
+  "author": "Resoguy",
   "license": "ISC"
 }
